@@ -3,8 +3,3 @@
 #### Game Developer
 
 ![JinYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinYoungBae-kw&show_icons=true&theme=radical)
-
-
-🐱 About Me
-
-  [![Tistory Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97](https://gamedevelopment-otter.tistory.com)
