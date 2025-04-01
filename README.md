@@ -1,8 +1,8 @@
 # Hi I'm Jinyoung.👋
 
 ## 📫Contact
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kisooofficial2@gmail.com)](mailto:gosangp03022@gmail.com) 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/kisooofficial)](주소)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gosangp0302@gmail.com)](mailto:gosangp03022@gmail.com) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gamedevelopment-otter.tistory.com)](https://gamedevelopment-otter.tistory.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.facebook.com/profile.php?id=100025947379584)](https://www.instagram.com/jin___0302/) 
 
 ## 🔭About me
