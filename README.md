@@ -1,12 +1,24 @@
-# Hi I'm Jinyoung.👋
+# Hi I'm Jinyoung. 👋
 
-## 📫Contact
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gosangp0302@gmail.com)](mailto:gosangp03022@gmail.com) 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gamedevelopment-otter.tistory.com)](https://gamedevelopment-otter.tistory.com)
+## 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gosangp0302@gmail.com)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://gamedevelopment-otter.tistory.com)
 
-## 🔭About me
+---
 
-### :mortar_board: Education
+## 🔭 About me
+
+### 🎓 Education
 - Kwangwoon University `2021.03 ~`
 
-[![Jinyoung's github stats](https://github-readme-stats.vercel.app/api?username=JinYoungBae-kw&show_icons=true&theme=tokyonight)](https://github.com/JinYoungBae-kw)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinYoungBae-kw&layout=compact&theme=tokyonight)
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/JinYoungBae-kw">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JinYoungBae-kw&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Jinyoung's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/JinYoungBae-kw">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinYoungBae-kw&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages"/>
+  </a>
+</p>
