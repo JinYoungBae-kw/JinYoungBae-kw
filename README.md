@@ -12,13 +12,3 @@
 - Kwangwoon University `2021.03 ~`
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/JinYoungBae-kw">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JinYoungBae-kw&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Jinyoung's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/JinYoungBae-kw">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinYoungBae-kw&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages"/>
-  </a>
-</p>
