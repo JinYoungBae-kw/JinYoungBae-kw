@@ -3,9 +3,13 @@
   <p><strong>AI Researcher &amp; Developer · Undergraduate Researcher</strong></p>
   <p>IDEA Lab · KwangWoon UNIVERSITY</p>
   <p>
-    <a href="mailto:bjo0302@kw.ac.kr"><img src="https://img.shields.io/badge/Email-334155?style=flat-square" alt="Email"></a>
-    <a href="https://gamedevelopment-otter.tistory.com/"><img src="https://img.shields.io/badge/Website-334155?style=flat-square" alt="Website"></a>
-</div>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail">
+&nbsp; gosangp0302@gmail.com &nbsp;
+    <a href="https://gamedevelopment-otter.tistory.com/">
+      <img src="https://cdn.simpleicons.org/tistory/FF5544" width="20" height="20" alt="Tistory">
+      &nbsp; Blog
+    </a>
+    &nbsp;
 
 ## Research Interests
 
