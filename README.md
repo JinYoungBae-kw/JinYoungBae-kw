@@ -7,7 +7,7 @@
 &nbsp; gosangp0302@gmail.com &nbsp;
     <a href="https://gamedevelopment-otter.tistory.com/">
       <img src="https://cdn.simpleicons.org/tistory/FF5544" width="20" height="20" alt="Tistory">
-      &nbsp; Blog
+      &nbsp; https://gamedevelopment-otter.tistory.com/
     </a>
     &nbsp;
 
